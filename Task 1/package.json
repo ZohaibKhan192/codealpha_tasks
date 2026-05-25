@@ -1,0 +1,20 @@
+{
+  "name": "language-translation-tool",
+  "version": "1.0.0",
+  "description": "A web-based language translation tool",
+  "main": "script.js",
+  "scripts": {
+    "start": "live-server",
+    "build": "echo 'No build step required'"
+  },
+  "keywords": [
+    "translation",
+    "language",
+    "web-tool"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
